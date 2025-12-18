@@ -19,15 +19,15 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
   Automating AWS resources using Terraform modules, best practices, and infrastructure-as-code.
 
 ### 🐳 Containers & Docker
-- **[Docker Projects]()**  
+- **[ongoing]()**  
   Building, managing, and deploying containerized applications.
 
 ### 🔁 CI/CD
-- **[GitHub Actions Pipelines]()**  
+- **[ongoing]()**  
   Automating deployment pipelines using GitHub Actions for continuous integration and delivery.
 
 ### 📊 Monitoring & Observability
-- **[Prometheus & Grafana Setup]()**  
+- **[ongoing]()**  
   Setting up monitoring dashboards and alerts for infrastructure and applications.
 
 ---
@@ -37,20 +37,3 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 - This repo may include **diagrams**, **notes**, and **learning resources** related to the projects.
 - For detailed instructions, visit the individual repositories linked above.
 
----
-
-## 📌 How to Use
-
-1. Explore this repository to understand the structure of my DevOps work.
-2. Click on the project links to view the actual code and implementations.
-3. Use this as a roadmap to see my **skills and hands-on experience**.
-
----
-
-## ⚡ Skills Highlighted
-
-- Terraform & Cloud Infrastructure (AWS)
-- CI/CD 
-- Docker & Containerization
-- Monitoring 
-- Automation & Scripting and many more.
