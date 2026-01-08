@@ -15,25 +15,19 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 ## 🔗 DevOps Projects
 
 ### ☁️ Cloud & Infrastructure
-- **[AWS Infrastructure using Terraform](https://github.com/SereneSyntax04/AWS-infrastructure-using-Terraform)**  
-  Automating AWS resources using Terraform modules, best practices, and infrastructure-as-code.
-
-### 🐳 Containers & Docker
-- **[ongoing]()**  
-  Building, managing, and deploying containerized applications.
+- **[AWS Infrastructure using Terraform](https://github.com/SereneSyntax04/AWS-infrastructure-using-Terraform/blob/main/README.md)**  
 
 ### 🔁 CI/CD
-- **[ongoing]()**  
-  Automating deployment pipelines using GitHub Actions for continuous integration and delivery.
+- **[Jenkins](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/cicd/jenkins/jenkins.md)** 
+- **[Jenkins Task](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/cicd/jenkins/jenkinsTask.md)**
 
 ### 📊 Monitoring & Observability
-- **[ongoing]()**  
-  Setting up monitoring dashboards and alerts for infrastructure and applications.
+- **[Observability Mini Project](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/observability/DockerGrafanaTask/GrafanaTaskReadme.md)**  
+  
 
 ---
 
 ## 📝 Additional Notes
 
-- This repo may include **diagrams**, **notes**, and **learning resources** related to the projects.
-- For detailed instructions, visit the individual repositories linked above.
-
+- [Observability CaseStudy]()
+- [Theory for required devops tool](https://github.com/SereneSyntax04/DevopsLinkedinLearning/tree/main/linkedin_foundation)
