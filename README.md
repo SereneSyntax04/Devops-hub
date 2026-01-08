@@ -12,22 +12,10 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 
 ---
 
-## 🔗 DevOps Projects
+# Index
 
-### ☁️ Cloud & Infrastructure
-- **[AWS Infrastructure using Terraform](https://github.com/SereneSyntax04/AWS-infrastructure-using-Terraform/blob/main/README.md)**  
+- [Theory](https://github.com/SereneSyntax04/Devops-hub/blob/main/Theory/Readme.md)
 
-### 🔁 CI/CD
-- **[Jenkins](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/cicd/jenkins/jenkins.md)** 
-- **[Jenkins Task](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/cicd/jenkins/jenkinsTask.md)**
+- [Task](https://github.com/SereneSyntax04/Devops-hub/blob/main/Task/Readme.md)
 
-### 📊 Monitoring & Observability
-- **[Observability Mini Project](https://github.com/SereneSyntax04/DevopsLinkedinLearning/blob/main/observability/DockerGrafanaTask/GrafanaTaskReadme.md)**  
-  
-
----
-
-## 📝 Additional Notes
-
-- [Observability CaseStudy]()
-- [Theory for required devops tool](https://github.com/SereneSyntax04/DevopsLinkedinLearning/tree/main/linkedin_foundation)
+- [Additional Notes](https://github.com/SereneSyntax04/Devops-hub/blob/main/AdditionalNotes/Readme.md)
