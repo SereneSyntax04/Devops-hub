@@ -14,8 +14,10 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 
 # Index
 
-- [Theory](https://github.com/SereneSyntax04/Devops-hub/blob/main/Theory/Readme.md)
+- [Theory](/Devops-hub/Theory/Readme.md)
 
-- [Task](https://github.com/SereneSyntax04/Devops-hub/blob/main/Task/Readme.md)
+- [Task](/Devops-hub/Task/Readme.md)
 
-- [Additional Notes](https://github.com/SereneSyntax04/Devops-hub/blob/main/AdditionalNotes/Readme.md)
+- [Additional Notes](/Devops-hub/AdditionalNotes/Readme.md)
+
+- [Installation guide](/Devops-hub/InstallationGuide/readme.md)
