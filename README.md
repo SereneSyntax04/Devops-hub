@@ -14,10 +14,10 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 
 # Index
 
-- [Theory](/Devops-hub/Theory/Readme.md)
+- [Theory](/Theory/Readme.md)
 
-- [Task](/Devops-hub/Task/Readme.md)
+- [Task](/Task/Readme.md)
 
-- [Additional Notes](/Devops-hub/AdditionalNotes/Readme.md)
+- [Additional Notes](/AdditionalNotes/Readme.md)
 
-- [Installation guide](/Devops-hub/InstallationGuide/readme.md)
+- [Installation guide](/InstallationGuide/readme.md)
