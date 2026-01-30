@@ -12,3 +12,6 @@
 
 5. [Python for devops + short examples](https://github.com/SereneSyntax04/python-for-devops/blob/main/README.md)
 
+6. [Terraform Detailed Concepts & Architecture](https://github.com/SereneSyntax04/DevOpsJourney/blob/main/IAC/DetailedTheoryTerraform.md)
+
+7. [Kubernetes Architecture Explained](https://github.com/SereneSyntax04/DevOpsJourney/blob/main/k8s/architecture.md)
