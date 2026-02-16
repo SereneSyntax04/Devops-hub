@@ -18,8 +18,8 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 
 - [Task](/Task/Readme.md)
 
-- [Case Study](/AdditionalNotes/Readme.md)
+- [Case Study](https://github.com/SereneSyntax04/DevopsLinkedinLearning/tree/main/casestudy)
 
 - [Installation guide](/InstallationGuide/readme.md)
 
-- [Additional Notes](https://github.com/SereneSyntax04/DevOpsJourney/blob/main/README.md)
+- [Major Projects](/Devops-hub/Projects/readme.md)
