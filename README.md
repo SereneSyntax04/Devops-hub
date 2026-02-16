@@ -22,4 +22,4 @@ It links to individual repositories covering cloud infrastructure, CI/CD pipelin
 
 - [Installation guide](/InstallationGuide/readme.md)
 
-- [Major Projects](/Devops-hub/Projects/readme.md)
+- [Major Projects](/Projects/readme.md)

@@ -1,4 +1,4 @@
-# DevOps Hands-on Projects & Implementations
+# DevOps Hands-on Task & Implementations
 
 ## Index
 
